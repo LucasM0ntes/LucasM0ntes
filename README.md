@@ -42,12 +42,12 @@ Over time, I’ve collaborate with different organizations by reporting security
       <td align="center" width="200">
         <img src="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/The-Fork-logo.png" alt="NASA" height="60"><br>
         <b>The Fork</b><br>
-        <sub><a href="HOF_LINK_FORD">Hall of Fame</a></sub>
+        <sub><a href="https://bugcrowd.com/h/Montes">Hall of Fame</a></sub>
       </td>
       <td align="center" width="200">
         <img src="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/The-HUT-Group-logo.png" alt="NASA" height="60"><br>
         <b>The HUT Group</b><br>
-        <sub><a href="HOF_LINK_HAT">Hall of Fame</a></sub>
+        <sub><a href="https://bugcrowd.com/h/Montes">Hall of Fame</a></sub>
       </td>
     </tr>
   </table>
