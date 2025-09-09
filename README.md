@@ -32,7 +32,7 @@ Over time, I’ve collaborate with different organizations by reporting security
       <td align="center" width="200">
         <img src="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/nasa-logo.png?raw=true" alt="NASA" height="60"><br>
         <b>NASA</b><br>
-        <sub><a href="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/Nasa-VDP.pdf">Security Acknowledgements</a></sub>
+        <sub><a href="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/Nasa-VDP.pdf">Security Acknowledgement</a></sub>
       </td>
       <td align="center" width="200">
         <img src="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/Comunidad-Madrid-Logo.png" alt="NASA" height="60"><br>
