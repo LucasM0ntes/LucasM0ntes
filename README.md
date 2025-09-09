@@ -57,7 +57,7 @@ Over time, I’ve collaborate with different organizations by reporting security
 
 ---
 
-## 🧰 Repositories
+##  Repositories
 - 🔍 **Open Redirect Hunter** — raw HTTP request → param fuzz + `Location` follow (POST/GET/JSON). _[link]_
 - 🧵 **Recon Workflow (Caido + Katana + Nuclei)** — escalable active/passive chain. _[link]_
 - 🧪 **SQLi/XSS local labs** — testbeds seguros. _[link]_
