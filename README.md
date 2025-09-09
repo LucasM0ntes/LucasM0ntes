@@ -59,8 +59,8 @@ Over time, I’ve collaborate with different organizations by reporting security
 
 ## 📂 Repositories
 
-- 🔍 **Open Redirect Hunter** — [Visit Repository](https://github.com/LucasMontes/Open-Redirect-Hunter)
-- 🧵 **My-Wordlists** — [Visit Repository](https://github.com/LucasMontes/My-Wordlists)
+- **Open Redirect Hunter** — [Visit Repository](https://github.com/LucasMontes/Open-Redirect-Hunter)
+- **My-Wordlists** — [Visit Repository](https://github.com/LucasMontes/My-Wordlists)
 
 ---
 
