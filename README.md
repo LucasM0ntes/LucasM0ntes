@@ -6,9 +6,9 @@
 
 [![Website](https://img.shields.io/badge/Website-Visit-1DA1F2?logo=world&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:YOUR@EMAIL)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Profile-FF6600?logo=bugcrowd&logoColor=white)](YOUR_BUGCROWD_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:lucasmontesheredero@gmail.com)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Profile-FF6600?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/Montes)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/LucasM0ntes)
 
 </div>
 
