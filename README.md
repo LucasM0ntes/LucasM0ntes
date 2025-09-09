@@ -35,18 +35,18 @@ Over time, I’ve collaborate with different organizations by reporting security
         <sub><a href="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/Nasa-VDP.pdf">Security Acknowledgements</a></sub>
       </td>
       <td align="center" width="200">
-        🏛️<br>
+        <img src="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/Comunidad-Madrid-Logo.png" alt="NASA" height="60"><br>
         <b>Educación Madrid</b><br>
         <sub><a href="https://www.educa2.madrid.org/.well-known/halloffame.html">Hall of Fame</a></sub>
       </td>
       <td align="center" width="200">
-        🚗<br>
-        <b>Ford</b><br>
+        <img src="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/The-Fork-logo.png" alt="NASA" height="60"><br>
+        <b>The Fork</b><br>
         <sub><a href="HOF_LINK_FORD">Hall of Fame</a></sub>
       </td>
       <td align="center" width="200">
-        💼<br>
-        <b>HAT Group</b><br>
+        <img src="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/nasa-logo.png?raw=true" alt="NASA" height="60"><br>
+        <b>The HUT Group</b><br>
         <sub><a href="HOF_LINK_HAT">Acknowledgements</a></sub>
       </td>
     </tr>
