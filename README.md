@@ -57,14 +57,6 @@ Over time, I’ve collaborate with different organizations by reporting security
 
 ---
 
-## 🧠 Skills
-**Web vulns:** `XSS` `SQLi` `IDOR` `SSRF` `RCE`  
-**Recon:** `Subdomain enum` `JS intel` `Endpoint discovery`  
-**Automation:** `Caido` `Katana` `Nuclei` `Custom scripts`  
-**Stacks:** `PHP` `JS/TS` `Java` `Docker`  
-
----
-
 ## 🧩 Tech stack
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%20-FF6F3D?logo=burp-suite&logoColor=white)
 ![Caido](https://img.shields.io/badge/Caido-%20-6C2BD9)
