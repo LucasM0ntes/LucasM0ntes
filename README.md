@@ -64,33 +64,11 @@ Over time, I’ve collaborate with different organizations by reporting security
 
 ---
 
-## ⏱️ Highlights
-<details>
-  <summary><b>Ver hitos</b></summary>
-
-- **2025** — NASA & Educación Madrid acknowledgements  
-- **2025** — Completed all PortSwigger Academy labs  
-- **2024** — Built Open Redirect Hunter tool  
-
-</details>
-
----
-
-## 🧪 PentesterLab Badges
-
 <p align="center">
-  <img alt="PTL Badge 1" src="[assets/ptl-badge-1.png](https://ptl-certs.s3.amazonaws.com/PTLN25749.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI5SYYGSB2WKF7OAA%2F20250909%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250909T145822Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f5a098a00c3605995e50e83500ba372fe989fe29634f6ed481bbba772c940141)" height="60" />
-  <img alt="PTL Badge 2" src="assets/ptl-badge-2.png" height="60" />
-  <img alt="PTL Badge 3" src="assets/ptl-badge-3.png" height="60" />
+  <img src="https://img.shields.io/badge/PentesterLab-Packages%20completed%3A%207-success" alt="PentesterLab 7 packages">
+  <img src="https://img.shields.io/badge/PortSwigger%20Academy-All%20labs%20completed-brightgreen" alt="All PortSwigger labs completed">
 </p>
 
-<p align="center">
-  [PTL Badge 1 – PDF](assets/PTLN25749.pdf) ·
-  [PTL Badge 2 – PDF](assets/PTLU12702.pdf) ·
-  [PTL Badge 3 – PDF](assets/PTLH1973.pdf)
-</p>
-
----
 
 <p align="center">
   Every 500 Internal Server Error hides a secret.<br>
