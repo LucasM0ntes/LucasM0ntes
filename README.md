@@ -57,16 +57,16 @@ Over time, I’ve collaborate with different organizations by reporting security
 
 ---
 
-##  Repositories
-- 🔍 **Open Redirect Hunter** — raw HTTP request → param fuzz + `Location` follow (POST/GET/JSON). _[link]_
-- 🧵 **Recon Workflow (Caido + Katana + Nuclei)** — escalable active/passive chain. _[link]_
-- 🧪 **SQLi/XSS local labs** — testbeds seguros. _[link]_
+## 📂 Repositories
+
+- 🔍 **Open Redirect Hunter** — [Visit Repository](https://github.com/LucasMontes/Open-Redirect-Hunter)
+- 🧵 **My-Wordlists** — [Visit Repository](https://github.com/LucasMontes/My-Wordlists)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PentesterLab-Packages%20completed%3A%207-success" alt="PentesterLab 7 packages">
-  <img src="https://img.shields.io/badge/PortSwigger%20Academy-All%20labs%20completed-brightgreen" alt="All PortSwigger labs completed">
+  <img src="https://img.shields.io/badge/PentesterLab-Packages%20completed%3A%207-green" alt="PentesterLab 7 packages">
+  <img src="https://img.shields.io/badge/PortSwigger%20Academy-All%20labs%20completed-blue" alt="All PortSwigger labs completed">
 </p>
 
 
