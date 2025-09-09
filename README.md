@@ -30,14 +30,14 @@ Over time, I’ve collaborate with different organizations by reporting security
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://graffica.info/wp-content/uploads/2017/07/logo-nasa-fondo-oscuro.jpg" alt="NASA" height="60"><br>
+        <img src="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/58429400a6515b1e0ad75acc.png?raw=true" alt="NASA" height="60"><br>
         <b>NASA</b><br>
         <sub><a href="HOF_LINK_NASA">Security Acknowledgements</a></sub>
       </td>
       <td align="center" width="200">
         🏛️<br>
         <b>Educación Madrid</b><br>
-        <sub><a href="HOF_LINK_EDUMAD">Hall of Fame</a></sub>
+        <sub><a href="https://www.educa2.madrid.org/.well-known/halloffame.html">Hall of Fame</a></sub>
       </td>
       <td align="center" width="200">
         🚗<br>
