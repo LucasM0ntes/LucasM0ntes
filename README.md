@@ -57,17 +57,6 @@ Over time, I’ve collaborate with different organizations by reporting security
 
 ---
 
-## 🧩 Tech stack
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%20-FF6F3D?logo=burp-suite&logoColor=white)
-![Caido](https://img.shields.io/badge/Caido-%20-6C2BD9)
-![Katana](https://img.shields.io/badge/Katana-%20-111827)
-![Nuclei](https://img.shields.io/badge/Nuclei-%20-0EA5E9)
-![Python](https://img.shields.io/badge/Python-%20-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%20-339933?logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%20-2496ED?logo=docker&logoColor=white)
-
----
-
 ## 🧰 Repositories
 - 🔍 **Open Redirect Hunter** — raw HTTP request → param fuzz + `Location` follow (POST/GET/JSON). _[link]_
 - 🧵 **Recon Workflow (Caido + Katana + Nuclei)** — escalable active/passive chain. _[link]_
