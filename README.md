@@ -30,9 +30,9 @@ Over time, I’ve collaborate with different organizations by reporting security
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/58429400a6515b1e0ad75acc.png?raw=true" alt="NASA" height="60"><br>
+        <img src="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/nasa-logo.png?raw=true" alt="NASA" height="60"><br>
         <b>NASA</b><br>
-        <sub><a href="HOF_LINK_NASA">Security Acknowledgements</a></sub>
+        <sub><a href="https://github.com/LucasM0ntes/LucasM0ntes/blob/main/assets/Nasa-VDP.pdf">Security Acknowledgements</a></sub>
       </td>
       <td align="center" width="200">
         🏛️<br>
@@ -76,7 +76,7 @@ Over time, I’ve collaborate with different organizations by reporting security
 
 ---
 
-## 🏵️ PentesterLab Badges
+## 🧪 PentesterLab Badges
 
 <p align="center">
   <img alt="PTL Badge 1" src="[assets/ptl-badge-1.png](https://ptl-certs.s3.amazonaws.com/PTLN25749.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI5SYYGSB2WKF7OAA%2F20250909%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250909T145822Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f5a098a00c3605995e50e83500ba372fe989fe29634f6ed481bbba772c940141)" height="60" />
